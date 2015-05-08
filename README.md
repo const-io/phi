@@ -1,8 +1,8 @@
-const-phi
+Golden Ratio (phi)
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Golden ratio.
+> [Golden ratio](http://en.wikipedia.org/wiki/Golden_ratio).
 
 
 ## Installation
@@ -17,18 +17,24 @@ For use in the browser, use [browserify](https://github.com/substack/node-browse
 ## Usage
 
 ``` javascript
-var foo = require( 'compute-const-phi' );
+var phi = require( 'compute-const-phi' );
 ```
 
-#### foo( arr )
+#### phi
 
-What does this function do?
+The [golden ratio](http://oeis.org/A001622).
+
+``` javascript
+phi === 1.618033988749895;
+```
 
 
 ## Examples
 
 ``` javascript
-var foo = require( 'compute-const-phi' );
+var phi = require( 'compute-const-phi' );
+
+console.log( phi );
 ```
 
 To run the example code from the top-level application directory,
