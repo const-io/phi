@@ -4,6 +4,16 @@ Golden Ratio (φ)
 
 > [Golden ratio][phi].
 
+The [golden ratio][phi] can be defined algebraically as
+
+<!-- <equation class="equation" label="eq:golden_ratio" align="center" raw="\phi = \frac{1 + \sqrt{5}}{2}" alt="Golden ratio"> -->
+<div class="equation" align="center" data-raw-text="\phi = \frac{1 + \sqrt{5}}{2}" data-equation="eq:golden_ratio">
+    <img src="" alt="Golden ratio">
+    <br>
+    <br>
+</div>
+<!-- </equation> -->
+
 
 ## Installation
 
