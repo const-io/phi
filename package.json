@@ -40,7 +40,12 @@
     "golden mean",
     "golden section",
     "divine section",
-    "golden cut"
+    "golden cut",
+    "medial section",
+    "divine proportion",
+    "golden number",
+    "number",
+    "divine"
   ],
   "bugs": {
     "url": "https://github.com/const-io/phi/issues"
