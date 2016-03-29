@@ -100,8 +100,8 @@ $ make view-browser-tests
 Copyright &copy; 2015-2016. The [Compute.io][compute-io] Authors.
 
 
-[npm-image]: http://img.shields.io/npm/v/const-phi.svg
-[npm-url]: https://npmjs.org/package/const-phi
+[npm-image]: http://img.shields.io/npm/v/compute-const-phi.svg
+[npm-url]: https://npmjs.org/package/compute-const-phi
 
 [build-image]: http://img.shields.io/travis/const-io/phi/master.svg
 [build-url]: https://travis-ci.org/const-io/phi
