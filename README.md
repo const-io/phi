@@ -8,7 +8,7 @@ The [golden ratio][phi] can be defined algebraically as
 
 <!-- <equation class="equation" label="eq:golden_ratio" align="center" raw="\phi = \frac{1 + \sqrt{5}}{2}" alt="Golden ratio"> -->
 <div class="equation" align="center" data-raw-text="\phi = \frac{1 + \sqrt{5}}{2}" data-equation="eq:golden_ratio">
-    <img src="" alt="Golden ratio">
+    <img src="https://cdn.rawgit.com/const-io/phi/d8d5c67b8d8c10b9c34d9cbf1db90c86fd42ec4a/docs/img/golden_ratio.svg" alt="Golden ratio">
     <br>
     <br>
 </div>
