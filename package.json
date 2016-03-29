@@ -57,6 +57,7 @@
     "istanbul": "^0.4.1",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
+    "math-sqrt": "^1.0.1",
     "tap-spec": "4.x.x",
     "tape": "4.x.x",
     "testling": "1.x.x"
