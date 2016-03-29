@@ -18,14 +18,14 @@ The [golden ratio][phi] can be defined algebraically as
 ## Installation
 
 ``` bash
-$ npm install compute-const-phi
+$ npm install const-phi
 ```
 
 
 ## Usage
 
 ``` javascript
-var PHI = require( 'compute-const-phi' );
+var PHI = require( 'const-phi' );
 ```
 
 #### PHI
@@ -40,7 +40,7 @@ PHI === 1.618033988749895;
 ## Examples
 
 ``` javascript
-var PHI = require( 'compute-const-phi' );
+var PHI = require( 'const-phi' );
 
 console.log( PHI );
 // returns 1.618033988749895
@@ -110,8 +110,8 @@ $ make view-browser-tests
 Copyright &copy; 2015-2016. The [Compute.io][compute-io] Authors.
 
 
-[npm-image]: http://img.shields.io/npm/v/compute-const-phi.svg
-[npm-url]: https://npmjs.org/package/compute-const-phi
+[npm-image]: http://img.shields.io/npm/v/const-phi.svg
+[npm-url]: https://npmjs.org/package/const-phi
 
 [build-image]: http://img.shields.io/travis/const-io/phi/master.svg
 [build-url]: https://travis-ci.org/const-io/phi
